@@ -1,16 +1,29 @@
-## Hi there 👋
+## 👋 ¡Hola! Soy Gabriel Isaí Alcaraz Suarez
 
-<!--
-**gaboLectric/gaboLectric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📚 Estudiante de Computación en CUCEI, Universidad de Guadalajara (2022–2026). Apasionado por el desarrollo web, las bases de datos y la construcción de soluciones tecnológicas eficientes.
 
-Here are some ideas to get you started:
+Actualmente enfocado en fortalecer mis habilidades como desarrollador backend, además de expandirme hacia el frontend y el desarrollo móvil con Flutte y Android Studio.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Tecnologías y Herramientas
+
+🛠️ Proyectos Destacados 
+
+Code Challenge CUCEI — Aplicación móvil de retos semanales de programación (Android Studio + Java).
+
+Sincronía — App móvil en Flutter para la gestión offline de tareas, música y calendario (proyecto escolar).
+
+NutriKnowledge - App movil en Java para estudiantes de nutricion que engloba la mayoria de temas tocados en el plan de la UDG superficialmente (Android Studio + Java) .
+
+AppComintec - App web para herramienta interna de gestion de ventas de la empresa COMINTEC. (Css, Html, Js, MySQL) (En desarrolo) https://www.comintec.com.mx/index.php
+
+📖 Sobre mí
+
+Siempre en constante aprendizaje sobre programación y tecnología.
+
+Interesado en el uso de APIS y desarrolo de aplicaciones moviles.
+
+Comprometido con la mejora continua y la calidad del código.
+
+📫 ¿Dónde encontrarme?
+
+www.linkedin.com/in/gabolectric
