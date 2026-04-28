@@ -1,4 +1,4 @@
-# Gabriel Isaí Alcaraz Suarez
+# Soy Gabriel Isaí Alcaraz Suarez
 
 Estudiante de Ingeniería en Computación en CUCEI, Universidad de Guadalajara. Desarrollando aplicaciones web full-stack, inclinandome más al desarrollo de backend Orientado al detalle y atraído por problemas que realmente valen la pena resolver.
 
