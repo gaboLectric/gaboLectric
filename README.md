@@ -38,7 +38,7 @@ Estudiante de Ingeniería en Computación en CUCEI, Universidad de Guadalajara. 
 
 **CRM Interno — COMINTEC** &nbsp;·&nbsp; `React` `Node.js` `TypeScript` `PostgreSQL` `Docker`
 
-CRM full-stack para digitalizar y automatizar procesos internos de ventas. En desarrollo activo.
+CRM/ERP full-stack para digitalizar y automatizar procesos internos de ventas. En desarrollo activo.
 
 ---
 
